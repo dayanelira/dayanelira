@@ -1,4 +1,4 @@
-- ##  Oiii eu sou a Dayane Lira, acadêmica de Análise  e Desenvolvimento de Sistemas.
+## Oiii eu sou a Dayane Lira, acadêmica de Análise  e Desenvolvimento de Sistemas.
 <div align="center">
   
  👀 Tenho muita vontade de adquirir cada vez mais conhecimento na área da tecnologia.
