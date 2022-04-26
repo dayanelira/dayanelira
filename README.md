@@ -1,4 +1,4 @@
-## Oiii eu sou a Dayane Lira, acadêmica de Análise  e Desenvolvimento de Sistemas.
+## Oiii! Eu sou a Dayane Lira, acadêmica de Análise  e Desenvolvimento de Sistemas.
   
  🎯 Sou iniciante, mas com imensa vontade de aprender, meu foco é cada vez mais adquirir conhecimento na área de tecnologia.
   
