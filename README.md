@@ -2,8 +2,6 @@
   
  🎯  Meu objetivo é cada vez mais adquirir conhecimento na área de tecnologia.
   
- 🌱 Atualmente estou participando de um Bootcamp Java - **GFTStartWomanDIO**
-  
  📫 Meu [Linkedin](https://www.linkedin.com/in/dayanexlira/)
 
 <!---
