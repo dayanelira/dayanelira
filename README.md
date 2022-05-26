@@ -1,7 +1,5 @@
 ## Oiii! Eu sou a Dayane Lira, acadêmica de Análise  e Desenvolvimento de Sistemas.
   
- 🎯  Meu objetivo é cada vez mais adquirir conhecimento na área de tecnologia.
-  
  📫 Meu [Linkedin](https://www.linkedin.com/in/dayanexlira/)
 
 <!---
