@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Dayane Lira.
 
-- 🔭 Apaixonada por tecnologia
+- 🔭 Focando na linguagem Java, mas pretendo conhecer outras.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 2/5
  
  <div align="center">
