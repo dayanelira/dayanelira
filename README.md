@@ -2,7 +2,6 @@
 
 - 🔭 Apaixonada por tecnologia
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 2/5
-- 📫 Meu [Linkedin](https://www.linkedin.com/in/dayanexlira/)
  
  <div align="center">
   <a href="https://github.com/dayanelira">
@@ -15,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCwF7N5imVjn1x76BEipkkhg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Nuv5NPDCVF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dayanexlira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/dayanexlira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dayanexlira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
   
